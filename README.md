@@ -26,15 +26,11 @@ It's open-source. Feel free to use it for learning purpose.
 ## Contribution
 Xiao Zhao, xiaozhao20071106@gmail.com
 
-## Report a bug
-If you think you have encountered a bug, and I should know about it, feel free to report it here and I will take care of it.
+## Deployed page
+You can find the live webpage via this link.
+https://xiaozhao1111.github.io/01-htmlCssGit-codeRefactor/Links 
 
-## Request a feature
-You can also request for a feature here, and if it will viable, it will be picked for development.
-
-
-## Credit/Acknowledgment
-Thanks for the help of instrutors and TAs in the bootcamp. 
+![The deployed webpage](/assets/images/livepage.png)
 
 ## License
 No license needed.
