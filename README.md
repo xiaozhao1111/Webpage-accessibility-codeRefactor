@@ -28,7 +28,7 @@ Xiao Zhao, xiaozhao20071106@gmail.com
 
 ## Deployed page
 You can find the live webpage via this link.
-https://xiaozhao1111.github.io/01-htmlCssGit-codeRefactor/Links 
+https://xiaozhao1111.github.io/01-htmlCssGit-codeRefactor/
 
 ![The deployed webpage](/assets/images/livepage.png)
 
