@@ -1,4 +1,4 @@
-# 01-htmlCssGit-codeRefactor
+# Webpage accessibility codeRefactor
 
 ## About
 This is a weekly challenge for the Frontend Developer Bootcamp. The chanllenge involves a very important aspect of web development: **accessibility**.
