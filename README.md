@@ -24,7 +24,7 @@ Use ssh to connect to your Github repository. Clone your repository to your comp
 It's open-source. Feel free to use it for learning purpose.
 
 ## Contribution
-Xiao Zhao, xiaozhao20071106@gmail.com
+Xiao Zhao, zhaoxiao20071106@gmail.com
 
 ## Deployed page
 You can find the live webpage via this link.
